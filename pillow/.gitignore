@@ -94,3 +94,4 @@ ven/
 *.pyc
 
 static/
+/pillow/accounts/__pycache__
